@@ -1,6 +1,6 @@
 # Codewars Solutions
 
-This repository contains my solutions to coding challenges on my [CodewarsAccount]([https://www.codewars.com/](https://www.codewars.com/users/Winsmarl)). The challenges are organized by difficulty level (kyu), with each file representing a specific problem I solved.
+This repository contains my solutions to coding challenges on my [Codewars Account](https://www.codewars.com/users/Winsmarl). The challenges are organized by difficulty level (kyu), with each file representing a specific problem I solved.
 
 ##What is Codewars?
 
