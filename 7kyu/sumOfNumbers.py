@@ -10,18 +10,21 @@
 # (-1, 0) --> -1 (-1 + 0 = -1)
 # (-1, 2) --> 2 (-1 + 0 + 1 + 2 = 2)
 
-def get_sum(a,b):
+def square_digits(num):
     
-    sum = 0
+    strnum = str(num)
     
-    if a < b:
-        for n in range(a, b+1):
-            sum += n
+    list = []
+    list2 = []
     
-    else:
-        for n in range(b, a+1):
-            sum += n
+    for x in strnum:
+        list.append(int(x)**2)
+        
+    for j in list:
+        
+        list2.append(str(j))
     
-    return sum
+        
+    return "".join(list2)
 
 print(get_sum(0,-1))
