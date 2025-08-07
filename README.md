@@ -6,4 +6,4 @@ This repository contains my solutions to coding challenges on my [Codewars Accou
 
 [Codewars](https://www.codewars.com/) is a platform where developers can improve their coding skills by completing kata (challenges) in various programming languages.
 
-## Folder Structure
+
