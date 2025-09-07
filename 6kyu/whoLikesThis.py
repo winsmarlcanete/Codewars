@@ -10,7 +10,6 @@
 # Note: For 4 or more names, the number in "and 2 others" simply increases.
 
 def likes(names):
-    # your code here
     
     if len(names) == 1:
         return names[0] + " likes this"
