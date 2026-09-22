@@ -10,7 +10,6 @@ Examples:
 
 function toWeirdCase(string $string) : string {
   $words = explode(" ", strtoupper($string));
-  $weirdWords;
   foreach ($words as $word) {
     for ($i = 1; $i < strlen($word); $i += 2) {
       $word[$i] = strtolower($word[$i]);
